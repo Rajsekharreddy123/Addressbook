@@ -4,6 +4,7 @@
 int main() {
     int choice;
     AddressBook addressBook;
+    int sortChoice;
     initialize(&addressBook); // Initialize the address book
 
     do {
